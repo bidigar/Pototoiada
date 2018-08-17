@@ -1,9 +1,13 @@
 # Pototoiada
 A game i'm doing for my friends have fun and helps me to polish my unity skills :3
 
-Here's the TODO list:
+Here's the TODO list in a cronologic way:
 
-START
+**START**
+
+(Everything i already did)
+
+**NOW**
 
 - [ ] Character inventory
 - [ ] Character menu
@@ -25,7 +29,7 @@ START
 - [ ] Create a saving feature
 - [ ] Create a auto-saving feature
 
-GAME DEMO READY
+**GAME DEMO READY**
 
 - [ ] Create character fragments
 - [ ] Character fragments menu
@@ -41,17 +45,17 @@ GAME DEMO READY
 - [ ] Add the option to create a username and play the tutorial on the first time you open the game
 - [ ] Add sounds and musics
 
-GAME READY TO BE PLAYED
+**GAME READY TO BE PLAYED**
 
 - [ ] Google account
 - [ ] Advertising? Monetization?
 - [ ] Publishing
 
-GAME READY TO BE LAUCHED
+**GAME READY TO BE LAUCHED**
 
 - [ ] Create and add skins
 - [ ] Create and add the refinement system
 - [ ] New characters
 - [ ] Event Stages
 
-UPDATES
+**UPDATES**
