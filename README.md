@@ -2,8 +2,8 @@
 A game i'm doing for my friends have fun and helps me to polish my unity skills :3
 
 Here's the TODO list:
-// --- START --- //
 
+START
 - Character inventory
 - Character menu
 - Character battlefield position
@@ -23,7 +23,7 @@ Here's the TODO list:
 - Interactions with the inventeories of the characters and weapons
 - Create a saving feature
 - Create a auto-saving feature
-//--- GAME DEMO READY --- //
+GAME DEMO READY
 
 - Create character fragments
 - Character fragments menu
@@ -38,15 +38,15 @@ Here's the TODO list:
 - Create a little tutorial of the menus
 - Add the option to create a username and play the tutorial on the first time you open the game
 - Add sounds and musics
-// --- GAME READY TO BE PLAYED --- //
+GAME READY TO BE PLAYED
 
 - Google account
 - Advertising? Monetization?
 - Publishing
-// --- GAME READY TO BE LAUCHED --- //
+GAME READY TO BE LAUCHED
 
 - Create and add skins
 - Create and add the refinement system
 - New characters
 - Event Stages
-// --- UPDATES --- //
+UPDATES
