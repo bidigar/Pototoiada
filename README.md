@@ -3,12 +3,6 @@ A game i'm doing for my friends have fun and helps me to polish my unity skills 
 
 Here's the TODO list in a cronologic way:
 
-**START**
-
-(Everything i already did)
-
-**NOW**
-
 - [ ] Character inventory
 - [ ] Character menu
 - [ ] Character battlefield position
