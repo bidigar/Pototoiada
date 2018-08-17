@@ -45,7 +45,7 @@ Here's the TODO list in a cronologic way:
 - [ ] Advertising? Monetization?
 - [ ] Publishing
 
-**GAME READY TO BE LAUCHED**
+------ **GAME READY TO BE LAUCHED** ----------
 
 ###### UPDATES
 - [ ] Create and add skins
