@@ -47,7 +47,7 @@ Here's the TODO list in a cronologic way:
 
 **GAME READY TO BE LAUCHED**
 
-######**UPDATES**
+###### UPDATES
 - [ ] Create and add skins
 - [ ] Create and add the refinement system
 - [ ] New characters
