@@ -1,5 +1,5 @@
 # Pototoiada
-A game i'm doing for my friends have fun and i polish my unity skills :3
+A game i'm doing for my friends have fun and helps me to polish my unity skills :3
 
 Here's the TODO list:
 // --- START --- //
